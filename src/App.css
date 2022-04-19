@@ -1,0 +1,21 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  nav {
+    background-color: aquamarine;
+    padding: 10px;
+  }
+
+  nav a {
+    padding: 0 10px;
+  }
+  
+  /* nav a.active{
+    font-size: 1.2rem;
+    text-decoration: none;
+    background-color: bisque;
+  } */
